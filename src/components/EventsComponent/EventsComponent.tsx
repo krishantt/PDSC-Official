@@ -82,7 +82,7 @@ const EventsComponent = () => {
                         <div className="card">
                             <div className="card-body">
                                 <h4 className="card-title">Bug Bounty</h4>
-                                <small className="card-text mb-2 d-block">December 17th-19th, 2025</small>
+                                <small className="card-text mb-2 d-block">December 17th - 19th, 2025</small>
                                 <p className="card-text">Successfully wrapped up a 3-day Bug Bounty Bootcamp featuring expert-led sessions, hands-on labs, and live bug hunt challenges, providing participants with real-world exposure to cybersecurity and ethical hacking.</p>
                             </div>
                         </div>
